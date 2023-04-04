@@ -1,4 +1,6 @@
-### Hi, I'm Arjun VedBrat
+# Hi, I'm Arjun VedBrat
+
+I'm a student and a freelance software developer
 
 <!--
 **CoconutMacaroon/CoconutMacaroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
